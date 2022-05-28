@@ -1,4 +1,4 @@
-# Read and Write Google Sheets API
+# Google Sheets API Samples
 
 
 ## Prerequisites
